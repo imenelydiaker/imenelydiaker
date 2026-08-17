@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-<!-- 
+
 
 <div align='center'>
   
-  
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=imenelydiaker&show_icons=true&theme=radical) &nbsp;
-  
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imenelydiaker&layout=compact&theme=radical)](https://github.com/imenelydiaker/github-readme-stats)
-  
+![My github stats](https://github-stats-extended.vercel.app/api?username=imenelydiaker&include_all_commits=true&theme=tokyonight)
 
 </div>
+
+<!--
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=imenelydiaker&langs_count=4&theme=tokyonight)  &nbsp;
 -->
+
