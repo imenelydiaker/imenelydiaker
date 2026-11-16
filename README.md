@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### 🧪 Projects
 
 **Web agents**
-- **WebArena-Pro**: a heterogeneous, multimodal and reproducible benchmark for web agents. *NeurIPS E&D Track, 2026*
+- **WebArena-Pro**: a heterogeneous, multimodal and reproducible benchmark for web agents. *NeurIPS E&D Track, 2026* · [📄 Paper](https://arxiv.org/abs/2611.17955) · [💻 Code](https://github.com/McGill-NLP/webarena-pro)
 - **[FocusAgent](https://imenelydiaker.github.io/focus_agent/)**: trims the large context of web agents with a small retriever that keeps only the lines of the page that matter, which also filters out prompt injections. [📄 Paper](https://arxiv.org/abs/2510.03204) · [💻 Code](https://github.com/imenelydiaker/focus_agent)
 - **CUBE**: a standard for unifying agent benchmarks. [📄 Paper](https://arxiv.org/abs/2603.15798) · [💻 Code](https://github.com/The-AI-Alliance/cube-harness)
 - **Planning representations for web agents**: an empirical study of how the way LLM web agents plan affects their performance. [📄 Paper](https://arxiv.org/abs/2605.29927)
